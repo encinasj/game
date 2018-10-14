@@ -80,7 +80,12 @@ WORDS = [
     'cafe',
     'pizarron',
     'cafetera',
-    'noob'
+    'noob',
+    'luirting',
+    'cemento',
+    'javascript',
+    'python doesnt work',
+    'pantano'
 ]
 
 def random_word():
